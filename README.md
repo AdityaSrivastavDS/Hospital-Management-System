@@ -56,10 +56,14 @@ Before running the Hospital Management System, make sure you have the following 
 
 Create a MySQL database named hospital.
 Create three table within database:
+
      Table1: Patient 
+     
      Table2: Doctors
+     
      Table3: Appointment
-     You can create attributes of table according to you and 
+     
+     You can create attributes of table according to you and make changes into project according to that.
 
 
 
