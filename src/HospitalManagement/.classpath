@@ -1,0 +1,4 @@
+<classpath>
+    <!-- Other entries -->
+    <classpathentry kind="lib" path="lib/mysql-connector-java-8.3.0.jar"/> 
+</classpath>
