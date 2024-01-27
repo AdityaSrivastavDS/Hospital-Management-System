@@ -55,7 +55,11 @@ Before running the Hospital Management System, make sure you have the following 
 2. **Set up the database:**
 
 Create a MySQL database named hospital.
-Import the SQL schema from database/hospital_schema.sql into the hospital database.
+Create three table within database:
+     Table1: Patient 
+     Table2: Doctors
+     Table3: Appointment
+     You can create attributes of table according to you and 
 
 
 
