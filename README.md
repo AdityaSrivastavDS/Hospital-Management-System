@@ -48,7 +48,7 @@ Before running the Hospital Management System, make sure you have the following 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
+   git clone https://github.com/AdityaSrivastavDS/hospital-management-system.git
 
 
 
